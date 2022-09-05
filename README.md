@@ -1,7 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-luckow/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leticia.villasboas99@gmail.com)
 
 **Letícia Luckow**.<br/> 
-Estudante de desenvolvimento Front-end. Sou formada em administração, e estou em busca de uma transição de carreira para a área de desenvolvimento. 
+Estudante de desenvolvimento Front End. Sou formada em administração, e estou em busca de uma transição de carreira para a área de desenvolvimento. 
 Busco uma nova colocação no mercado de trabalho e de novos desafios. Venho estudando tecnologias como: HTML, CSS, Javascript, React, entre outras.
 ## 📫 Como me encontrar
 
